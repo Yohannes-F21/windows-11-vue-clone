@@ -45,8 +45,8 @@ npm run serve
 
 ## Screenshots:
 
-![Screenshot 1](https://github.com/Yohannes-F21/windows-11-clone/public/screenshots/Screenshot1.png)
-![Screenshot 2](https://github.com/Yohannes-F21/windows-11-clone/public/screenshots/Screenshot2.png)
+![Screenshot 1](https://github.com/Yohannes-F21/windows-11-clone/blob/main/public/screenshots/Screenshot1.png)
+![Screenshot 2](https://github.com/Yohannes-F21/windows-11-clone/blob/main/public/screenshots/Screenshot2.png)
 
 ## Project Overview:
 
